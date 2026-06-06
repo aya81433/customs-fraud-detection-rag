@@ -45,4 +45,4 @@ results/
 
 The full research paper is available in:
 
-paper/AI_Driven_Detection_of_Misclassified_Imports.pdf
+![Paper](paper/AI_Driven_Detection_of_Misclassified_Imports.pdf)
