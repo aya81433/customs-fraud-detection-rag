@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+langchain
+faiss-cpu
+sentence-transformers
+matplotlib
+seaborn
+openai
+jupyter
